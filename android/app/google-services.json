@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "555255118465",
+    "project_id": "twistic-38e54",
+    "storage_bucket": "twistic-38e54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555255118465:android:1cec3bd422de5b70552b80",
+        "android_client_info": {
+          "package_name": "com.twistic.twistic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555255118465-rfq2s1jrn2jrjacdditc2vv992un5370.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKpV6O-MP8kWRn52aycOsDYomrcuB01IY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555255118465-rfq2s1jrn2jrjacdditc2vv992un5370.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
